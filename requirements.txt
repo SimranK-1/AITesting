@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+
+# Production dependencies (not needed for demo mode)
+# langchain>=0.1.0
+# langgraph>=0.0.40
+# langchain-openai>=0.0.8
+# openai>=1.0.0
